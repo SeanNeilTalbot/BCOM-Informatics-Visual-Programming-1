@@ -1,8 +1,8 @@
 #Calculate area of rectangle to 2 decimal places using float
 
-length = 5.5
-breadth = 2.5
+length = 5.52
+breadth = 2.53
 
 area = length * breadth
 
-print(area)
+print(round(area,2))
