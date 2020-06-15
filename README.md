@@ -8,3 +8,6 @@ Assignment 1
  - Question 4: Write a program that has two variables named nApples and nKids. Assign integer values to these variables.  Divide the number of apples by the number of kids.  Display the result using a print command in the following format:
 There are …. kids and … apples. 
 Each kid gets …. apples, and …. apples remain.
+
+Assignment 2
+ - Question 1: Write a Python program that uses an IF statement.  The program must prompt the user to enter the year of his/her birth as a single integer number.  If the value entered is less than 2000 then the message “welcome from the previous century” is displayed, else the message ‘WELCOME’ is displayed.  The program must display the input value, as well as result of the decision.
