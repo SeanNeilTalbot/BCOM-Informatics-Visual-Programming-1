@@ -11,3 +11,4 @@ Each kid gets …. apples, and …. apples remain.
 
 Assignment 2
  - Question 1: Write a Python program that uses an IF statement.  The program must prompt the user to enter the year of his/her birth as a single integer number.  If the value entered is less than 2000 then the message “welcome from the previous century” is displayed, else the message ‘WELCOME’ is displayed.  The program must display the input value, as well as result of the decision.
+ - Question 2: Write a Python program that uses a FOR loop.  The program must prompt the user to enter five integer numbers.  The program must display each of the input values, as well as the sum of all values and the average value.
