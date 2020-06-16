@@ -20,3 +20,4 @@ Assignment 2
  
 Assignment 3
  - Question 1: Write a Python program that defines a function called my_greet.  The function must print an appropriate greeting (in any language).  However, the program must prompt the user for a name, and the name is shared as a parameter value in the calling of the function.  The output should be in a format similar to: “Good day, Mary!’
+ - Question 2: Write a Python program that defines a function called my_greatest.  The function must print an appropriate message (in any language).  However, the program must prompt the user for three numbers.  All three numbers are passed to the function.  The function must calculate the average of the three values entered. The output should be in a format similar to: “The average of the three numbers entered is :  99’
