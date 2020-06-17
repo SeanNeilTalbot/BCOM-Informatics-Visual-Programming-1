@@ -27,3 +27,4 @@ Assignment 3
 •	Add the method display() to the class.  The method is used to display the member variables of the class. (2)
 Prompt the user for input to demonstrate the use of the Cat class.  You are most welcome to enhance the class definition with additional attributes.
 - Question 4: Using the class definition from Question 3, you are required to create five class instances.
+- Question 5: Write a Python program that writes to a file MyPythonNotes.  Prompt the user for ten interesting facts about Python (should be a complete sentence format).  Each fact must be appended to the file.  Display a message to the user “thank you, we have 10 facts’.  Then display the “current content of the file is :’ …
